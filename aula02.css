@@ -7,7 +7,7 @@
 }
 
 .cabecalho {
-  background-color: #4a403d;
+  background-color: #dcdbaf;
   text-align: center;
   padding: 2rem;
   position: sticky;
@@ -17,12 +17,15 @@
 }
 
 .batman {
-  background-image: url(../image/bridge-9620082_1280.jpg);
+  background-image: url(image/barbecue-3406333_1280.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   padding: 19rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container {
@@ -45,6 +48,14 @@
   border-radius: 10px;
   min-width: 300px;
 }
+
+.div01 {
+  background-image: url(image/foto1.jpg);
+  padding: 5px;
+  
+}
+
+
 
 .rodape {
   background-color: #facf7d;
